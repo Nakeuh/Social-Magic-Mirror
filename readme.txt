@@ -1,6 +1,6 @@
 Folder MagicMirror : 
 
-The folder MagicMirror contain the source of the MagicMirror project from https://github.com/MichMich/MagicMirror.
+The folder MagicMirror contain the source of the MagicMirror project from git :  https://github.com/MichMich/MagicMirror.
 The only difference between current MagicMirror folder and original project is the file config.js.
 Every MagicMirror modules can be added or deleted as for the original project.
 If you want to upgrade the MagicMirror sources. Save the current config.js file, dowload updated MagicMirror sources and place it in MagicMirror folder. Replace config.js file by the old one. Test it.
