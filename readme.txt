@@ -1,3 +1,5 @@
+Project structure
+
 Folder MagicMirror : 
 
 The folder MagicMirror contain the source of the MagicMirror project from url https://github.com/MichMich/MagicMirror.
@@ -30,4 +32,11 @@ II ) For Vocal Recognition
  curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash
  sudo apt-get install -y nodejs
  
+ etc...
+
+Updating MagicMirror version :
+
+blabla
+
+Starting system
 
