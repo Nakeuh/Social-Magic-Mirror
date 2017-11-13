@@ -1,3 +1,5 @@
+Project structure
+
 Folder MagicMirror : 
 
 The folder MagicMirror contain the source of the MagicMirror project from url https://github.com/MichMich/MagicMirror.
@@ -16,3 +18,25 @@ Contains a config file for every saved profiles. This config file is used to con
 Folder Scripts : 
 
 For now : just JS tests
+
+
+Installation for raspberry pi : 
+
+I ) Clone the repo
+
+II ) For Vocal Recognition
+  // get FLAC stream from mic
+ sudo apt-get install sox
+ 
+  // nodejs v5
+ curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash
+ sudo apt-get install -y nodejs
+ 
+ etc...
+
+Updating MagicMirror version :
+
+blabla
+
+Starting system
+
